@@ -33,7 +33,7 @@ body = """
         <h1>Hello Olumide,</h1>
         <p>This is a <b>styled email</b> with an image and a button! 🎉</p>
         <p>Let me know what you think!</p>
-        <img src="https://photos.google.com/search/CgRMdW1pGikKJ0FGMVFpcE5fU2NWRE5ZSjZkVFQ1Q3ptcm5IWTVIT1RGc09YX3N6YyI3CgRMdW1pEi8KLQorCikSJ0FGMVFpcE5fU2NWRE5ZSjZkVFQ1Q3ptcm5IWTVIT1RGc09YX3N6Yyjg2p3M4zI%3D/photo/AF1QipOTJmZCIpkmD9ajzuigA1bGjVFzT1_Q-YvlP6Ra" alt="Sample Image" width="300">
+        <img src="https://res.cloudinary.com/dqfwjnkcj/image/upload/v1744722461/samples/man-portrait.jpg" alt="Sample Image" width="300">
         <br><br>
         <a href="https://www.linkedin.com/in/od-fakorede" class="button">Visit LinkedIn</a>
     </div>
