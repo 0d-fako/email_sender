@@ -15,7 +15,7 @@ yag = yagmail.SMTP(email, app_password)
 
 recipient = "od.fakorede@gmail.com"
 subject = "Hello Olumide"
-body = "Hello! This is a nice to implement feature, being able to send my email form my terminate"
+body = "Hello! This is a nice to implement feature, being able to send my email from my terminal"
 pdf_attachment = r"C:\Users\Dell\Desktop\Books\Design Thinking\Pains.docx"
 
 yag.send(to=recipient, subject=subject, contents=body, attachments=[pdf_attachment])
